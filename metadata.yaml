@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4836'
     url: http://www.gutenberg.org/2009/agents/4836
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13111#The-Brain-and-the-Voice-in-Speech-and-Song
 gutenberg_bookshelf: Physiology
 gutenberg_issued: '2004-08-03'
 gutenberg_type: Text
