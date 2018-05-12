@@ -1,0 +1,28 @@
+_repo: The-Brain-and-the-Voice-in-Speech-and-Song_13111
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mott, F. W. (Frederick Walker)
+    alias: Mott, Frederick Walker, Sir
+    birthdate: 1853
+    deathdate: 1926
+    gutenberg_agent_id: '4836'
+    url: http://www.gutenberg.org/2009/agents/4836
+description: ''
+gutenberg_bookshelf: Physiology
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voice'
+- !lcc 'QP'
+title: The Brain and the Voice in Speech and Song
+url: http://www.gutenberg.org/ebooks/13111
